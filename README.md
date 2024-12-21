@@ -17,7 +17,7 @@ This was one of the first weeks with React. The biggest issue we had was firstly
 
 ### View it live
 
-https://stunning-faloodeh-3e176a.netlify.app/ 
+(https://cocofnaschristmassurvey.netlify.app/)
 
 ### Links
 Alexandra Meija portfolio https://alexandrameijaportfolio.netlify.app/
